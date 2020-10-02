@@ -1,4 +1,4 @@
-## PteroControl BETA
+## PteroControl ALPHA
 ![Logo](https://cdn.glitch.com/795f527b-61d5-4751-b5bd-962410288029%2FIMG_20200906_083435.png?v=1601627828544)
 
 Introduction
