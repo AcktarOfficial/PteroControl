@@ -7,7 +7,6 @@ Introduction
 PteroControl is a bot designed to make administrating servers running on Pterodactyl more convenient by allowing admins to quickly run certain tasks directly from Discord:
 
 * Written in Javascript, CloudServer is faster and more stable.
-
 * PteroControl can be used with any server on Pterodactyl, irregardless of whether it's on shared hosting or your own hosted panel
 
 PteroControl is still **under development** and we welcome contributions. 
