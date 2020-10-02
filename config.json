@@ -1,0 +1,8 @@
+{
+ "prefix": "~", 
+ "token": "Your Bot Token", 
+ "mysqlHOST": "https://yourmysqlhost.com",
+ "mysqlUSER": "AcktarOfficial", 
+ "mysqlPASS": "Keep Confidential lol", 
+ "mysqlDB": "pterocontrol"
+} 
