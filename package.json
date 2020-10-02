@@ -1,0 +1,18 @@
+{
+  "name": "PteroControl",
+  "version": "1.0.0",
+  "website": "acktarofficial.com",
+  "discord": "discord.acktaris.fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "mysql": "^2.18.1",
+    "nodeactyl": "^2.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
