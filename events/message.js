@@ -1,5 +1,5 @@
 module.exports = (client, message) => {
-const config = require("./config.json");
+const config = require("../config.json");
 
   if (message.author.bot) return;
   if (message.content.indexOf(config.prefix) !== 0) return;
